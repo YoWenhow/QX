@@ -1,0 +1,8 @@
+  
+{
+  "name": "evilbutcher",
+  "description": "https://github.com/evilbutcher/Quantumult_X",
+  "task": [
+    "30 7-22 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/appstore/AppMonitor.js, tag=App价格监控, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/appstore.png, enabled=true",
+  ]
+}
